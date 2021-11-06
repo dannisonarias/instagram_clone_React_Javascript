@@ -1,5 +1,5 @@
-# React Calculator
-The Calculator app is a modern browser app written in React Javascript. The app provides standard functionality
+# React FireGram (Instagram functions)
+Firegram is a modern browser app written in React Javascript using firebase as the database.
 
 # Screenshot
 
@@ -7,14 +7,14 @@ The Calculator app is a modern browser app written in React Javascript. The app 
 
 # Live Link
 
-[Heroku-Live-Link](https://lculatordannison.herokuapp.com/)
+Soon...
 
 ## Built With
 
 - HTML & SCSS
 - JavaScript/ES6
 - React
-- Heroku
+- Firebase
 
 ## Author
 
